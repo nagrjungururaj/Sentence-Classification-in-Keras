@@ -1,7 +1,7 @@
 # Sentence-Classification-in-Keras
 Predicts the mood of given list of sentence / sentences
 
-# Dataset 
+## Dataset 
 The dataset contains approx 60000 training corpus text and 40000 test corpus and each training sample is labeled with one of the classes 
 'affection', 'achievement', 'bonding', 'enjoy_the_moment', 'leisure', 'nature', 'exercise'
 
